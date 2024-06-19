@@ -10,7 +10,7 @@ This project is a simple web-based text summarization tool built using Flask and
 
 ## Demo
 
-![Screenshot of the home page](images/demo4.png)
+![Screenshot of the home page](images/demo4.PNG)
 ![Screenshot of the summary result](images/demo1.png)
 ![Screenshot of the summary result](images/demo2.png)
 ![Screenshot of the summary result](images/demo3.png)
