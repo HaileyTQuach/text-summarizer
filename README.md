@@ -18,7 +18,7 @@ This project is a simple web-based text summarization tool built using Flask and
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/text-summarization-tool.git
+git clone https://github.com/HaileyTQuach/text-summarizer.git
 cd text-summarization-tool
 python -m venv venv
 source venv/Scripts/activate  # On Windows, use `venv\Scripts\activate`

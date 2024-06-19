@@ -65,8 +65,6 @@ def summarize():
     cohere.ClassifyExample(text="The fundraiser is for an experimental treatment called ONC201", label="neutral"),
     cohere.ClassifyExample(text="The fundraiser's target is £60,000", label="neutral")
 ]
-
-
     )
     sentiment = sentiment_response.classifications[0].prediction
 
